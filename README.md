@@ -1,6 +1,6 @@
 # nyc_taxi_challenge
 
-This is a repository of our participation in New york City Taxi Trip Duration challenge on Kaggle (07/20/2017 - 09/15/2017). This was the first time we paerticipated on Kaggle.
+This is a repository of our participation in New york City Taxi Trip Duration challenge on Kaggle (07/20/2017 - 09/15/2017). This was the first time we participated on any Kaggle competition.
 Our standing : 227 / 1257 (Top 23%)
 
 You can get data to start with from
