@@ -22,6 +22,15 @@ train_xgboost.py - This program train XGboost regressor on a single set of param
 
 three_reg.py - This was out attempt to use both bagging and boostig in a single model. We did not get time to tune and work more on this but with near optimal values, this beat decision tree.
 
+speedlimit.csv-Created by taking data from neywork govt website of traffic data in the city of manhattan.Contains the location(long and lat) of speed limit points and speed limit value.
+
+Adaboost-DTR has been used as the base estimator and number of estimators to be taken to be 2.Obsevation-no improvement from Xgboost has been seen.
+
+weather_nyc.csv-contains weather data which has been collected from the officail website maintained by newyork state govt.
+
+
+DBSCAN-to cluster the spatial points (long,lat) and later use these clusters to assign avg. speed limit to each of the cluster memebers.
+
 
 
 
