@@ -1,4 +1,4 @@
-#auther Sushma and Krishna
+#author: Sushma and Krishna
 #This program is for K-mean clustering of speed data on basis of latitude and longitude .
 #The cluster of speed is mapped to cluster in the location database to longitude and latitude.
 import matplotlib.pyplot as plt
